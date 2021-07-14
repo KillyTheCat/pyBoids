@@ -1,5 +1,5 @@
 # pyBoids
- Somewhat broken boids simulation
+ Somewhat working boids simulation
 
  # References
  - <a href=https://www.pygame.org/>Pygame documentation</a>
